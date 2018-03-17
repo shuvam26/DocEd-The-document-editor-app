@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sans1"
+        android:title="Sans-serif"/>
+
+    <item
+        android:id="@+id/sans2"
+        android:title="Sans-serif-light"/>
+
+    <item
+        android:id="@+id/sans3"
+        android:title="Sans-serif-thin"/>
+
+    <item
+        android:id="@+id/sans4"
+        android:title="Sans-serif-condensed"/>
+
+    <item
+        android:id="@+id/mono"
+        android:title="Monospace"/>
+
+</menu>
